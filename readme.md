@@ -19,3 +19,7 @@
 - 🟢 [Latest stable](https://github.com/Modular-Lamps/firmware/releases/latest)
 - 🟠 [Latest beta](https://github.com/Modular-Lamps/firmware/tree/beta/firmware)
 - 🔴 [Latest nightly](https://github.com/Modular-Lamps/firmware/tree/nightly/firmware)
+
+## ⚙️ Updates
+- ⚠️ Critical or bug-fixing updates are provided every week
+- 🌋 New features are added at least once every 3 months
